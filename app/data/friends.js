@@ -1,7 +1,7 @@
 var friendData = [
     {
         name:"Ahmed",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://i.imgur.com/lfc22IE.jpg",
         scores:[
                 5,
                 1,
@@ -14,7 +14,71 @@ var friendData = [
                 4,
                 1
           ]
-    }    
+    },
+    {
+      name:"Michael",
+      photo:"https://i.imgur.com/uZJrmO1.jpg",
+      scores:[
+              1,
+              3,
+              5,
+              2,
+              2,
+              3,
+              4,
+              1,
+              5,
+              2
+        ]
+      },
+      {
+            name:"Joshua",
+            photo:"https://i.imgur.com/onJCfAq.jpg",
+            scores:[
+                    3,
+                    3,
+                    4,
+                    5,
+                    3,
+                    1,
+                    3,
+                    2,
+                    2,
+                    5
+              ]
+      },
+      {
+            name:"Haley",
+            photo:"https://i.imgur.com/ADdSO3l.jpg",
+            scores:[
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+              ]
+        },
+        {
+            name:"Kim",
+            photo:"https://i.imgur.com/IEvtYc7.jpg",
+            scores:[
+                    3,
+                    5,
+                    1,
+                    2,
+                    3,
+                    4,
+                    4,
+                    5,
+                    2,
+                    1
+              ]
+        }    
 ];
 
 module.exports = friendData;
